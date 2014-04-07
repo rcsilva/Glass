@@ -1,6 +1,6 @@
-Glass
+Application Strut 1 ( MVC ) 
 =====
 
 Adding Project
 
-Introduccion al Controlador servlet
+Creamos la estrutura del proyecto
